@@ -11,10 +11,10 @@ Espero que você goste :)
  ```
  O aplicativo iniciará na porta 3000;
  Se você não usar ```` yarn````, execute o seguinte comando yarn na pasta 'frontend' do projeto:
- `` `bash
+ ```bash
   npm i
   npm run start
- `` `
+ ```
  ## Configuração: Backend
  - BD: O sistema utiliza o banco de dados No-SQL Mongodb, ele precisa estar instalado na sua máquina para rodar o aplicativo, caso não tenha, clique no link:
  [MongoDB](https://docs.mongodb.com/manual/installation/)
