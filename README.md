@@ -23,8 +23,8 @@ Espero que você goste :)
   yarn install
   yarn run dev
  ```
-A aplicação será iniciado na porta 3003;
- Se você não usar ```` yarn````, execute o seguinte comando npm na pasta 'frontend' do projeto:
+ - A aplicação será iniciado na porta 3003;
+ - Se você não usar ```` yarn````, execute o seguinte comando npm na pasta 'frontend' do projeto:
  ```bash
   npm i
   npm run dev
