@@ -1,7 +1,7 @@
 # Cadastro de Cliente
  - Este projeto é a resolução do teste para a empresa Helper;
  - Para resolver o teste proposto, desenvolvi um sistema utilizando JS com React no frontend e Node no Backend.
-Espero que você gostem :)
+Espero que gostem :)
 
 ## Configuração: Frontend
  - Frontend: O sistema foi desenvolvido em JavaScript utilizando a biblioteca Reactjs, para iniciar a aplicação execute o seguinte comando na pasta 'frontend' do projeto:
